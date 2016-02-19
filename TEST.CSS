@@ -1,0 +1,51 @@
+.section {
+	content: "content";
+	padding:50px 150;}
+
+
+	.page1 {
+    background: #f5f5f5 ;
+    padding: 40px 0 40px 0;
+    
+}
+
+
+ input {
+    border:  none;
+    background-color: #FFF;
+    border-radius: 3px;
+    margin: 15px 20;
+    height: 50px;
+    font-size: 12px;
+    padding: 9px 20px 8px;
+    width: 90%;
+}
+
+ .desc{
+    
+    background-color: #FFF;
+    border-radius: 3px;
+    margin: 15px 0;
+    color: #333;
+    height: 150px;
+    font-size: 12px;
+    padding: 9px 20px 8px;
+    width: 94%;
+
+}
+.button {
+    box-shadow: 1px 1px 2px;
+    background-color: #5ac6ff;
+    color: #FFF;
+    border-radius: 4px;
+    border: none;
+   font-size: 12px;
+    cursor: pointer;
+    margin: 15px ;
+    height: 50px;
+    width: 96%;
+}
+
+
+
+
