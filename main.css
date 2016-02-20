@@ -1,0 +1,54 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,300,100);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,900,700italic);
+
+body{
+    margin: 0;
+    background-color: #eeeeee;
+}
+
+input[type="text"], input[type="email"], input[type="password"] {
+    display: block;
+    margin: 0 auto 18px auto;
+    height: 40px;
+    font-family: Roboto;
+    width: 300px;
+    border-bottom: 2px solid #c1c1c1;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    padding-left: 10px;
+    background: transparent;
+    color: #000;
+    font-size: 18px;
+    outline: none;
+}
+
+h1,h2,h3,h4{
+    font-family: 'Lato',sans-serif;
+    text-transform: uppercase;
+}
+
+
+input[type="submit"]{
+    width: 300px;
+    background-color: #00bd6b;
+    color: #FFF;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    font-size: 18px;
+    text-transform: uppercase;
+    padding: 8px;
+    margin: 0 auto 10px auto;
+    display: block; 
+}
+
+.wrap{
+display: block;
+margin: 20px auto 0 auto;
+background-color: #FFF;
+border-radius: 9px;
+padding: 10px;
+width: 323px;
+border: 2px #c1c1c1 solid;
+}
